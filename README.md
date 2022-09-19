@@ -7,7 +7,7 @@ A Python-based Digit Recognition Project that takes handwritten digits as input 
 
 ### Requirements
 ```
-Python 3.6
+Python 3.9
 PyGame
 Keras + TensorFlow
 OpenCV
